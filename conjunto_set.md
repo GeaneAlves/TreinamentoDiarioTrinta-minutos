@@ -28,11 +28,27 @@ for carro in carros:
 #função enumerate
 Para saber o índice do objeto dentro do laço for, podemos usar a função enumerate
 
-for indice = {"gol", "celta", "palio"}
+carros = {"gol", "celta", "palio"}
 for indice, carro in enumerate(carros):
   print(f"{indice}: {carro)"}
 
 #métodos de classe
+
+{}.union
+
+conjunto_a = {1, 2}
+comjunto_b = {3, 4}
+
+conjunto_a.union(conjunto_b)
+
+
+
+
+
+
+
+
+
 
 ´´´
 
